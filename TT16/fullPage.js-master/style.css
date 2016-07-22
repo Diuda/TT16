@@ -1,0 +1,76 @@
+.content{
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	text-align: center;
+
+}
+
+		body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,
+		form,fieldset,input,textarea,p,blockquote,th,td {
+		    padding: 0;
+		    margin: 0;
+		}
+
+#footer{
+	background-color: black;
+	color: white;
+	height: auto !important;
+}
+		q:before,q:after {
+		    content:'';
+		}
+h1{
+	font-size: 6em;
+	opacity: 0.8;
+}
+.sidenav {
+    height: 100%;
+    width: 0px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 1s;
+    padding-top: 60px;
+}
+.sidenav a{
+	text-align: center;
+	padding: 15px 15px 15px 15px;
+	text-decoration: none;
+	font-size: 18px;
+	color: grey;
+	display: block;
+	transition: 0.05s;
+}
+.sidenav a:hover{
+	color: #f1f1f1;
+	font-size: 22px;
+}
+.closeBttn{
+	position: absolute;
+	top: 0;
+	right:25px;
+	font-size: 36px !important;
+	margin-left: 50px;
+}
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+.openBttn{
+	z-index: 1;
+	position: fixed;
+	left: 30px;
+	top: 20px;
+	padding: 7px 7px;
+	transition: transform 0.5s;
+	opacity: 0.5;
+}
+.openBttn:hover{
+	transition: transform 1s;
+	transform: rotate(360deg);
+	opacity: 1;
+}
