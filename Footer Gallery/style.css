@@ -54,6 +54,7 @@ body{
 	align-items: center;
 	justify-content: flex-end;
 	background-color: #eee;
+	text-align: center;
 
 }
 
@@ -91,6 +92,10 @@ body{
 	flex-direction: row;
 	justify-content: space-around;
 	background-color: #fff;
+}
+
+.site-footer .footer-links ul h4 {
+	margin-left: -5px;
 }
 
 .social img{
@@ -351,4 +356,121 @@ div#section3.section.section-3.fp-section.active.fp-completely{
 	transition: transform 1s;
 	transform: rotate(360deg);
 	opacity: 1;
+}
+
+
+/*=================
+Schedule Page
+==================*/
+
+
+.schedule-outer-wrapper{
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	-webkit-flex-direction: column;
+	-moz-flex-direction: column;
+	-ms-flex-direction: column;
+	-o-flex-direction: column;
+	flex-direction: column;
+	justify-content: center;
+	-ms-align-items: space-between;
+	align-items: space-between;
+	height: 100vh;
+	width: 100%;
+	background-color: #eee;
+}
+
+.schedule-header{
+	height: 10%;
+	background-color: blue;
+}
+
+.schedule-subheader {
+	height: 17%;
+}
+
+.schedule-body{
+	height: 66%;
+	/*background-color: pink;*/
+}
+
+.schedule-footer{
+	height: 7%;
+	background-color: green;
+}
+
+
+.schedule-body-one,
+.schedule-body-two,
+.schedule-body-three,
+.schedule-body-four,
+.schedule-subheader-one,
+.schedule-subheader-two,
+.schedule-subheader-three,
+.schedule-subheader-four {
+	width: 25%;
+	height: 100%;
+	float: left;
+}
+
+.schedule-subheader-one, .schedule-footer-one {
+	background-color: #E84141;
+}
+.schedule-subheader-two, .schedule-footer-two {
+	background-color: #1D1919;
+}
+.schedule-subheader-three, .schedule-footer-three {
+	background-color: #3B8CDD;
+}
+.schedule-subheader-four, .schedule-footer-four {
+	background-color: #4AD5BF;
+}
+
+.schedule-header {
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #fff;
+	font-size: 18px;
+	font-style: italic;
+	background: url('images/bookeh.jpg') center center no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.schedule-footer-one,
+.schedule-footer-two,
+.schedule-footer-three,
+.schedule-footer-four{
+	width: 25%;
+	height: 100%;
+	float: left;
+}
+
+.schedule-footer img{
+
+	height: 85%;
+	padding-top: 5px;
+}
+
+.schedule-subheader input{
+	outline: none;
+	border: none;
+	border-radius: 15px 15px 15px 15px;
+	width: 60%;
+	height: 18%;
+	padding: 5px 10px;
+	margin-top: 4%;
+}
+
+.schedule-subheader h2,p {
+	color: #fff;
+	margin-top: 5px;
+}
+
+.schedule-subheader p {
+	font-style: italic;
+	font-weight: 300;
 }
