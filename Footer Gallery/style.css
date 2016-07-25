@@ -299,6 +299,7 @@ div#section3.section.section-3.fp-section.active.fp-completely{
 
 
 .sidenav {
+	position: absolute;
     height: 100%;
     width: 0px;
     position: fixed;
@@ -306,13 +307,19 @@ div#section3.section.section-3.fp-section.active.fp-completely{
     top: 0;
     left: 0;
     background-color: #111;
-    overflow-x: hidden;
     transition: 1s;
     padding-top: 60px;
-    overflow-y: hidden;
-    /*overflow-y: scroll;*/
-    /*padding: 12px 12px 12px 12px;*/
+    /*to hide scroll bar*/
+    overflow: hidden; 
+    
 }
+@media screen and (max-width: 667px){
+	.sidenav{
+    overflow: scroll;
+	}
+}
+
+
 .sidenav a{
 	text-align: center;
 	padding: 14px 14px 14px 14px;
