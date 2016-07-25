@@ -2,799 +2,788 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "19120",
 "files": {
-	"\/bower.json": {
+	"\/Footer Gallery\/bower.json": {
 		"fileType": 524288,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower.json",
+		"inputAbbreviatedPath": "\/Footer Gallery\/bower.json",
 		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/bower-min.json",
+		"outputAbbreviatedPath": "\/Footer Gallery\/bower-min.json",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
-	"\/dist\/jquery.fullpage.css": {
+	"\/Footer Gallery\/dist\/jquery.fullpage.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/dist\/jquery.fullpage.css",
+		"inputAbbreviatedPath": "\/Footer Gallery\/dist\/jquery.fullpage.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/dist\/jquery.fullpage.js": {
+	"\/Footer Gallery\/dist\/jquery.fullpage.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/dist\/jquery.fullpage.js",
-		"outputAbbreviatedPath": "\/dist\/min\/jquery.fullpage-min.js",
+		"inputAbbreviatedPath": "\/Footer Gallery\/dist\/jquery.fullpage.js",
+		"outputAbbreviatedPath": "\/Footer Gallery\/dist\/min\/jquery.fullpage-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/dist\/jquery.fullpage.min.css": {
+	"\/Footer Gallery\/dist\/jquery.fullpage.min.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/dist\/jquery.fullpage.min.css",
+		"inputAbbreviatedPath": "\/Footer Gallery\/dist\/jquery.fullpage.min.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/dist\/jquery.fullpage.min.js": {
+	"\/Footer Gallery\/dist\/jquery.fullpage.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/dist\/jquery.fullpage.min.js",
-		"outputAbbreviatedPath": "\/dist\/min\/jquery.fullpage.min-min.js",
+		"inputAbbreviatedPath": "\/Footer Gallery\/dist\/jquery.fullpage.min.js",
+		"outputAbbreviatedPath": "\/Footer Gallery\/dist\/min\/jquery.fullpage.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/examples\/apple.html": {
+	"\/Footer Gallery\/examples\/apple.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/apple.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/apple.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/autoHeight.html": {
+	"\/Footer Gallery\/examples\/autoHeight.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/autoHeight.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/autoHeight.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/autoMediaPlayPause.html": {
+	"\/Footer Gallery\/examples\/autoMediaPlayPause.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/autoMediaPlayPause.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/autoMediaPlayPause.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/backgrounds.html": {
+	"\/Footer Gallery\/examples\/backgrounds.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/backgrounds.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/backgrounds.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/backgroundsFixed.html": {
+	"\/Footer Gallery\/examples\/backgroundsFixed.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/backgroundsFixed.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/backgroundsFixed.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/backgroundVideo.html": {
+	"\/Footer Gallery\/examples\/backgroundVideo.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/backgroundVideo.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/backgroundVideo.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/callbacks.html": {
+	"\/Footer Gallery\/examples\/callbacks.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/callbacks.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/callbacks.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/continuous.html": {
+	"\/Footer Gallery\/examples\/continuous.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/continuous.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/continuous.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/css3.html": {
+	"\/Footer Gallery\/examples\/css3.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/css3.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/css3.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/demoPage.html": {
+	"\/Footer Gallery\/examples\/demoPage.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/demoPage.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/demoPage.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/easing.html": {
+	"\/Footer Gallery\/examples\/easing.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/easing.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/easing.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/examples.css": {
+	"\/Footer Gallery\/examples\/examples.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/examples.css",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/examples.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/examples.js": {
+	"\/Footer Gallery\/examples\/examples.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/examples.js",
-		"outputAbbreviatedPath": "\/examples\/min\/examples-min.js",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/examples.js",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/min\/examples-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/examples\/fixedHeaders.html": {
+	"\/Footer Gallery\/examples\/fixedHeaders.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/fixedHeaders.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/fixedHeaders.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/gradientBackgrounds.html": {
+	"\/Footer Gallery\/examples\/gradientBackgrounds.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/gradientBackgrounds.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/gradientBackgrounds.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/imgs\/1.png": {
+	"\/Footer Gallery\/examples\/imgs\/1.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 5237,
-		"inputAbbreviatedPath": "\/examples\/imgs\/1.png",
-		"outputAbbreviatedPath": "\/examples\/imgs\/1.png",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/1.png",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/examples\/imgs\/2.png": {
+	"\/Footer Gallery\/examples\/imgs\/2.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 6137,
-		"inputAbbreviatedPath": "\/examples\/imgs\/2.png",
-		"outputAbbreviatedPath": "\/examples\/imgs\/2.png",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/2.png",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/examples\/imgs\/3.png": {
+	"\/Footer Gallery\/examples\/imgs\/3.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 6507,
-		"inputAbbreviatedPath": "\/examples\/imgs\/3.png",
-		"outputAbbreviatedPath": "\/examples\/imgs\/3.png",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/3.png",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/3.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/examples\/imgs\/bg1.jpg": {
+	"\/Footer Gallery\/examples\/imgs\/bg1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 628788,
-		"inputAbbreviatedPath": "\/examples\/imgs\/bg1.jpg",
-		"outputAbbreviatedPath": "\/examples\/imgs\/bg1.jpg",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/bg1.jpg",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/bg1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/examples\/imgs\/bg2.jpg": {
+	"\/Footer Gallery\/examples\/imgs\/bg2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 361526,
-		"inputAbbreviatedPath": "\/examples\/imgs\/bg2.jpg",
-		"outputAbbreviatedPath": "\/examples\/imgs\/bg2.jpg",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/bg2.jpg",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/bg2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/examples\/imgs\/bg3.jpg": {
+	"\/Footer Gallery\/examples\/imgs\/bg3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 378628,
-		"inputAbbreviatedPath": "\/examples\/imgs\/bg3.jpg",
-		"outputAbbreviatedPath": "\/examples\/imgs\/bg3.jpg",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/bg3.jpg",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/bg3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/examples\/imgs\/bg4.jpg": {
+	"\/Footer Gallery\/examples\/imgs\/bg4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 581728,
-		"inputAbbreviatedPath": "\/examples\/imgs\/bg4.jpg",
-		"outputAbbreviatedPath": "\/examples\/imgs\/bg4.jpg",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/bg4.jpg",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/bg4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/examples\/imgs\/bg5.jpg": {
+	"\/Footer Gallery\/examples\/imgs\/bg5.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 255954,
-		"inputAbbreviatedPath": "\/examples\/imgs\/bg5.jpg",
-		"outputAbbreviatedPath": "\/examples\/imgs\/bg5.jpg",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/bg5.jpg",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/bg5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/examples\/imgs\/example.png": {
+	"\/Footer Gallery\/examples\/imgs\/example.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 15627,
-		"inputAbbreviatedPath": "\/examples\/imgs\/example.png",
-		"outputAbbreviatedPath": "\/examples\/imgs\/example.png",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/example.png",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/example.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/examples\/imgs\/example2.png": {
+	"\/Footer Gallery\/examples\/imgs\/example2.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 14320,
-		"inputAbbreviatedPath": "\/examples\/imgs\/example2.png",
-		"outputAbbreviatedPath": "\/examples\/imgs\/example2.png",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/example2.png",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/example2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/examples\/imgs\/fullPage.png": {
+	"\/Footer Gallery\/examples\/imgs\/fullPage.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 4648,
-		"inputAbbreviatedPath": "\/examples\/imgs\/fullPage.png",
-		"outputAbbreviatedPath": "\/examples\/imgs\/fullPage.png",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/fullPage.png",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/fullPage.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/examples\/imgs\/intro.png": {
+	"\/Footer Gallery\/examples\/imgs\/intro.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 43773,
-		"inputAbbreviatedPath": "\/examples\/imgs\/intro.png",
-		"outputAbbreviatedPath": "\/examples\/imgs\/intro.png",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/intro.png",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/intro.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/examples\/imgs\/iphone-blue.png": {
+	"\/Footer Gallery\/examples\/imgs\/iphone-blue.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 185858,
-		"inputAbbreviatedPath": "\/examples\/imgs\/iphone-blue.png",
-		"outputAbbreviatedPath": "\/examples\/imgs\/iphone-blue.png",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/iphone-blue.png",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/iphone-blue.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/examples\/imgs\/iphone-green.png": {
+	"\/Footer Gallery\/examples\/imgs\/iphone-green.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 181874,
-		"inputAbbreviatedPath": "\/examples\/imgs\/iphone-green.png",
-		"outputAbbreviatedPath": "\/examples\/imgs\/iphone-green.png",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/iphone-green.png",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/iphone-green.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/examples\/imgs\/iphone-red.png": {
+	"\/Footer Gallery\/examples\/imgs\/iphone-red.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 192643,
-		"inputAbbreviatedPath": "\/examples\/imgs\/iphone-red.png",
-		"outputAbbreviatedPath": "\/examples\/imgs\/iphone-red.png",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/iphone-red.png",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/iphone-red.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/examples\/imgs\/iphone-two.png": {
+	"\/Footer Gallery\/examples\/imgs\/iphone-two.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 389484,
-		"inputAbbreviatedPath": "\/examples\/imgs\/iphone-two.png",
-		"outputAbbreviatedPath": "\/examples\/imgs\/iphone-two.png",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/iphone-two.png",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/iphone-two.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/examples\/imgs\/iphone-yellow.png": {
+	"\/Footer Gallery\/examples\/imgs\/iphone-yellow.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 92586,
-		"inputAbbreviatedPath": "\/examples\/imgs\/iphone-yellow.png",
-		"outputAbbreviatedPath": "\/examples\/imgs\/iphone-yellow.png",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/iphone-yellow.png",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/iphone-yellow.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/examples\/imgs\/iphone1.jpg": {
+	"\/Footer Gallery\/examples\/imgs\/iphone1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 210074,
-		"inputAbbreviatedPath": "\/examples\/imgs\/iphone1.jpg",
-		"outputAbbreviatedPath": "\/examples\/imgs\/iphone1.jpg",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/iphone1.jpg",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/iphone1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/examples\/imgs\/iphone2.png": {
+	"\/Footer Gallery\/examples\/imgs\/iphone2.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 217910,
-		"inputAbbreviatedPath": "\/examples\/imgs\/iphone2.png",
-		"outputAbbreviatedPath": "\/examples\/imgs\/iphone2.png",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/iphone2.png",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/iphone2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/examples\/imgs\/iphone3.png": {
+	"\/Footer Gallery\/examples\/imgs\/iphone3.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 70775,
-		"inputAbbreviatedPath": "\/examples\/imgs\/iphone3.png",
-		"outputAbbreviatedPath": "\/examples\/imgs\/iphone3.png",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/iphone3.png",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/iphone3.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/examples\/imgs\/iphone4.png": {
+	"\/Footer Gallery\/examples\/imgs\/iphone4.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 17059,
-		"inputAbbreviatedPath": "\/examples\/imgs\/iphone4.png",
-		"outputAbbreviatedPath": "\/examples\/imgs\/iphone4.png",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/iphone4.png",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/iphone4.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/examples\/imgs\/slider.png": {
+	"\/Footer Gallery\/examples\/imgs\/slider.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3706,
-		"inputAbbreviatedPath": "\/examples\/imgs\/slider.png",
-		"outputAbbreviatedPath": "\/examples\/imgs\/slider.png",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/slider.png",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/slider.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/examples\/imgs\/tablets.png": {
+	"\/Footer Gallery\/examples\/imgs\/tablets.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 45874,
-		"inputAbbreviatedPath": "\/examples\/imgs\/tablets.png",
-		"outputAbbreviatedPath": "\/examples\/imgs\/tablets.png",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/tablets.png",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/tablets.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/examples\/imgs\/used-by-fullpage.png": {
+	"\/Footer Gallery\/examples\/imgs\/used-by-fullpage.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 4889,
-		"inputAbbreviatedPath": "\/examples\/imgs\/used-by-fullpage.png",
-		"outputAbbreviatedPath": "\/examples\/imgs\/used-by-fullpage.png",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/used-by-fullpage.png",
+		"outputAbbreviatedPath": "\/Footer Gallery\/examples\/imgs\/used-by-fullpage.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/examples\/looping.html": {
+	"\/Footer Gallery\/examples\/looping.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/looping.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/looping.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/methods.html": {
+	"\/Footer Gallery\/examples\/methods.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/methods.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/methods.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/navigationH.html": {
+	"\/Footer Gallery\/examples\/navigationH.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/navigationH.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/navigationH.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/navigationV.html": {
+	"\/Footer Gallery\/examples\/navigationV.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/navigationV.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/navigationV.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/noAnchor.html": {
+	"\/Footer Gallery\/examples\/noAnchor.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/noAnchor.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/noAnchor.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/normalScroll.html": {
+	"\/Footer Gallery\/examples\/normalScroll.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/normalScroll.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/normalScroll.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/oneSection.html": {
+	"\/Footer Gallery\/examples\/oneSection.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/oneSection.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/oneSection.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/responsiveHeight.html": {
+	"\/Footer Gallery\/examples\/responsiveHeight.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/responsiveHeight.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/responsiveHeight.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/responsiveWidth.html": {
+	"\/Footer Gallery\/examples\/responsiveWidth.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/responsiveWidth.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/responsiveWidth.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/scrollBar.html": {
+	"\/Footer Gallery\/examples\/scrollBar.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/scrollBar.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/scrollBar.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/scrolling.html": {
+	"\/Footer Gallery\/examples\/scrolling.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/scrolling.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/scrolling.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/scrollingSpeed.html": {
+	"\/Footer Gallery\/examples\/scrollingSpeed.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/scrollingSpeed.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/scrollingSpeed.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/examples\/simple.html": {
+	"\/Footer Gallery\/examples\/simple.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/examples\/simple.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/examples\/simple.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/gulpfile.js": {
+	"\/Footer Gallery\/gulpfile.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/gulpfile.js",
-		"outputAbbreviatedPath": "\/min\/gulpfile-min.js",
+		"inputAbbreviatedPath": "\/Footer Gallery\/gulpfile.js",
+		"outputAbbreviatedPath": "\/Footer Gallery\/min\/gulpfile-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/images\/adobe.png": {
+	"\/Footer Gallery\/images\/adobe.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 42958,
-		"inputAbbreviatedPath": "\/images\/adobe.png",
-		"outputAbbreviatedPath": "\/images\/adobe.png",
+		"inputAbbreviatedPath": "\/Footer Gallery\/images\/adobe.png",
+		"outputAbbreviatedPath": "\/Footer Gallery\/images\/adobe.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/bookeh.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 492935,
-		"inputAbbreviatedPath": "\/images\/bookeh.jpg",
-		"outputAbbreviatedPath": "\/images\/bookeh.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/food.png": {
+	"\/Footer Gallery\/images\/food.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 5247,
-		"inputAbbreviatedPath": "\/images\/food.png",
-		"outputAbbreviatedPath": "\/images\/food.png",
+		"inputAbbreviatedPath": "\/Footer Gallery\/images\/food.png",
+		"outputAbbreviatedPath": "\/Footer Gallery\/images\/food.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/hp.png": {
+	"\/Footer Gallery\/images\/hp.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 51775,
-		"inputAbbreviatedPath": "\/images\/hp.png",
-		"outputAbbreviatedPath": "\/images\/hp.png",
+		"inputAbbreviatedPath": "\/Footer Gallery\/images\/hp.png",
+		"outputAbbreviatedPath": "\/Footer Gallery\/images\/hp.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/img-1.jpg": {
+	"\/Footer Gallery\/images\/img-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 105791,
-		"inputAbbreviatedPath": "\/images\/img-1.jpg",
-		"outputAbbreviatedPath": "\/images\/img-1.jpg",
+		"inputAbbreviatedPath": "\/Footer Gallery\/images\/img-1.jpg",
+		"outputAbbreviatedPath": "\/Footer Gallery\/images\/img-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/img-2.jpg": {
+	"\/Footer Gallery\/images\/img-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 83969,
-		"inputAbbreviatedPath": "\/images\/img-2.jpg",
-		"outputAbbreviatedPath": "\/images\/img-2.jpg",
+		"inputAbbreviatedPath": "\/Footer Gallery\/images\/img-2.jpg",
+		"outputAbbreviatedPath": "\/Footer Gallery\/images\/img-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/img-3.jpg": {
+	"\/Footer Gallery\/images\/img-3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 123055,
-		"inputAbbreviatedPath": "\/images\/img-3.jpg",
-		"outputAbbreviatedPath": "\/images\/img-3.jpg",
+		"inputAbbreviatedPath": "\/Footer Gallery\/images\/img-3.jpg",
+		"outputAbbreviatedPath": "\/Footer Gallery\/images\/img-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/img-4.jpg": {
+	"\/Footer Gallery\/images\/img-4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 117110,
-		"inputAbbreviatedPath": "\/images\/img-4.jpg",
-		"outputAbbreviatedPath": "\/images\/img-4.jpg",
+		"inputAbbreviatedPath": "\/Footer Gallery\/images\/img-4.jpg",
+		"outputAbbreviatedPath": "\/Footer Gallery\/images\/img-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/img-5.jpg": {
+	"\/Footer Gallery\/images\/img-5.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 85952,
-		"inputAbbreviatedPath": "\/images\/img-5.jpg",
-		"outputAbbreviatedPath": "\/images\/img-5.jpg",
+		"inputAbbreviatedPath": "\/Footer Gallery\/images\/img-5.jpg",
+		"outputAbbreviatedPath": "\/Footer Gallery\/images\/img-5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/img-6.jpg": {
+	"\/Footer Gallery\/images\/img-6.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 84155,
-		"inputAbbreviatedPath": "\/images\/img-6.jpg",
-		"outputAbbreviatedPath": "\/images\/img-6.jpg",
+		"inputAbbreviatedPath": "\/Footer Gallery\/images\/img-6.jpg",
+		"outputAbbreviatedPath": "\/Footer Gallery\/images\/img-6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/img-7.jpg": {
+	"\/Footer Gallery\/images\/img-7.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 140603,
-		"inputAbbreviatedPath": "\/images\/img-7.jpg",
-		"outputAbbreviatedPath": "\/images\/img-7.jpg",
+		"inputAbbreviatedPath": "\/Footer Gallery\/images\/img-7.jpg",
+		"outputAbbreviatedPath": "\/Footer Gallery\/images\/img-7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/img-8.jpg": {
+	"\/Footer Gallery\/images\/img-8.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 70298,
-		"inputAbbreviatedPath": "\/images\/img-8.jpg",
-		"outputAbbreviatedPath": "\/images\/img-8.jpg",
+		"inputAbbreviatedPath": "\/Footer Gallery\/images\/img-8.jpg",
+		"outputAbbreviatedPath": "\/Footer Gallery\/images\/img-8.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/img-9.jpg": {
+	"\/Footer Gallery\/images\/img-9.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 746232,
-		"inputAbbreviatedPath": "\/images\/img-9.jpg",
-		"outputAbbreviatedPath": "\/images\/img-9.jpg",
+		"inputAbbreviatedPath": "\/Footer Gallery\/images\/img-9.jpg",
+		"outputAbbreviatedPath": "\/Footer Gallery\/images\/img-9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/old_map.png": {
+	"\/Footer Gallery\/images\/old_map.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 32184,
-		"inputAbbreviatedPath": "\/images\/old_map.png",
-		"outputAbbreviatedPath": "\/images\/old_map.png",
+		"inputAbbreviatedPath": "\/Footer Gallery\/images\/old_map.png",
+		"outputAbbreviatedPath": "\/Footer Gallery\/images\/old_map.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/weather.png": {
+	"\/Footer Gallery\/images\/weather.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2700,
-		"inputAbbreviatedPath": "\/images\/weather.png",
-		"outputAbbreviatedPath": "\/images\/weather.png",
+		"inputAbbreviatedPath": "\/Footer Gallery\/images\/weather.png",
+		"outputAbbreviatedPath": "\/Footer Gallery\/images\/weather.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/index.html": {
+	"\/Footer Gallery\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/index.html",
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Footer Gallery\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/jquery.fullPage.css": {
+	"\/Footer Gallery\/jquery.fullPage.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/jquery.fullPage.css",
+		"inputAbbreviatedPath": "\/Footer Gallery\/jquery.fullPage.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/jquery.fullPage.js": {
+	"\/Footer Gallery\/jquery.fullPage.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/jquery.fullPage.js",
-		"outputAbbreviatedPath": "\/min\/jquery.fullPage-min.js",
+		"inputAbbreviatedPath": "\/Footer Gallery\/jquery.fullPage.js",
+		"outputAbbreviatedPath": "\/Footer Gallery\/min\/jquery.fullPage-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/jquery.fullPage.min.js": {
+	"\/Footer Gallery\/jquery.fullPage.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/jquery.fullPage.min.js",
-		"outputAbbreviatedPath": "\/min\/jquery.fullPage.min-min.js",
+		"inputAbbreviatedPath": "\/Footer Gallery\/jquery.fullPage.min.js",
+		"outputAbbreviatedPath": "\/Footer Gallery\/min\/jquery.fullPage.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/jquery.fullPage.scss": {
+	"\/Footer Gallery\/jquery.fullPage.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/jquery.fullPage.scss",
+		"inputAbbreviatedPath": "\/Footer Gallery\/jquery.fullPage.scss",
 		"outputAbbreviatedPath": "\/css\/jquery.fullPage.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -803,67 +792,67 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/package.json": {
+	"\/Footer Gallery\/package.json": {
 		"fileType": 524288,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/package.json",
+		"inputAbbreviatedPath": "\/Footer Gallery\/package.json",
 		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/package-min.json",
+		"outputAbbreviatedPath": "\/Footer Gallery\/package-min.json",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
-	"\/pure javascript (Alpha)\/demo.html": {
+	"\/Footer Gallery\/pure javascript (Alpha)\/demo.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/pure javascript (Alpha)\/demo.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/pure javascript (Alpha)\/demo.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/pure javascript (Alpha)\/index.html": {
+	"\/Footer Gallery\/pure javascript (Alpha)\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/pure javascript (Alpha)\/index.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/pure javascript (Alpha)\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/pure javascript (Alpha)\/javascript.fullPage.css": {
+	"\/Footer Gallery\/pure javascript (Alpha)\/javascript.fullPage.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/pure javascript (Alpha)\/javascript.fullPage.css",
+		"inputAbbreviatedPath": "\/Footer Gallery\/pure javascript (Alpha)\/javascript.fullPage.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/pure javascript (Alpha)\/javascript.fullPage.js": {
+	"\/Footer Gallery\/pure javascript (Alpha)\/javascript.fullPage.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/pure javascript (Alpha)\/javascript.fullPage.js",
-		"outputAbbreviatedPath": "\/pure javascript (Alpha)\/min\/javascript.fullPage-min.js",
+		"inputAbbreviatedPath": "\/Footer Gallery\/pure javascript (Alpha)\/javascript.fullPage.js",
+		"outputAbbreviatedPath": "\/Footer Gallery\/pure javascript (Alpha)\/min\/javascript.fullPage-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/pure javascript (Alpha)\/javascript.fullPage.min.js": {
+	"\/Footer Gallery\/pure javascript (Alpha)\/javascript.fullPage.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/pure javascript (Alpha)\/javascript.fullPage.min.js",
-		"outputAbbreviatedPath": "\/pure javascript (Alpha)\/min\/javascript.fullPage.min-min.js",
+		"inputAbbreviatedPath": "\/Footer Gallery\/pure javascript (Alpha)\/javascript.fullPage.min.js",
+		"outputAbbreviatedPath": "\/Footer Gallery\/pure javascript (Alpha)\/min\/javascript.fullPage.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/pure javascript (Alpha)\/README.md": {
+	"\/Footer Gallery\/pure javascript (Alpha)\/README.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
 		"enableLabels": 1,
@@ -872,9 +861,9 @@
 		"fileType": 4096,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/pure javascript (Alpha)\/README.md",
+		"inputAbbreviatedPath": "\/Footer Gallery\/pure javascript (Alpha)\/README.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/pure javascript (Alpha)\/README.html",
+		"outputAbbreviatedPath": "\/Footer Gallery\/pure javascript (Alpha)\/README.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -884,7 +873,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/README.md": {
+	"\/Footer Gallery\/README.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
 		"enableLabels": 1,
@@ -893,9 +882,9 @@
 		"fileType": 4096,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/README.md",
+		"inputAbbreviatedPath": "\/Footer Gallery\/README.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/README.html",
+		"outputAbbreviatedPath": "\/Footer Gallery\/README.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -905,74 +894,74 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/script.js": {
+	"\/Footer Gallery\/script.js": {
 		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/script.js",
-		"outputAbbreviatedPath": "\/min\/script-min.js",
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Footer Gallery\/script.js",
+		"outputAbbreviatedPath": "\/Footer Gallery\/min\/script-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
-		"syntaxCheckerStyle": 0
+		"syntaxCheckerStyle": 1
 		},
-	"\/style.css": {
+	"\/Footer Gallery\/style.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/style.css",
+		"inputAbbreviatedPath": "\/Footer Gallery\/style.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/tests\/functions.html": {
+	"\/Footer Gallery\/tests\/functions.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/tests\/functions.html",
+		"inputAbbreviatedPath": "\/Footer Gallery\/tests\/functions.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/tests\/functions.js": {
+	"\/Footer Gallery\/tests\/functions.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/tests\/functions.js",
-		"outputAbbreviatedPath": "\/tests\/min\/functions-min.js",
+		"inputAbbreviatedPath": "\/Footer Gallery\/tests\/functions.js",
+		"outputAbbreviatedPath": "\/Footer Gallery\/tests\/min\/functions-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/vendors\/jquery.easings.min.js": {
+	"\/Footer Gallery\/vendors\/jquery.easings.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/vendors\/jquery.easings.min.js",
-		"outputAbbreviatedPath": "\/vendors\/min\/jquery.easings.min-min.js",
+		"inputAbbreviatedPath": "\/Footer Gallery\/vendors\/jquery.easings.min.js",
+		"outputAbbreviatedPath": "\/Footer Gallery\/vendors\/min\/jquery.easings.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/vendors\/scrolloverflow.js": {
+	"\/Footer Gallery\/vendors\/scrolloverflow.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/vendors\/scrolloverflow.js",
-		"outputAbbreviatedPath": "\/vendors\/min\/scrolloverflow-min.js",
+		"inputAbbreviatedPath": "\/Footer Gallery\/vendors\/scrolloverflow.js",
+		"outputAbbreviatedPath": "\/Footer Gallery\/vendors\/min\/scrolloverflow-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/vendors\/scrolloverflow.min.js": {
+	"\/Footer Gallery\/vendors\/scrolloverflow.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/vendors\/scrolloverflow.min.js",
-		"outputAbbreviatedPath": "\/vendors\/min\/scrolloverflow.min-min.js",
+		"inputAbbreviatedPath": "\/Footer Gallery\/vendors\/scrolloverflow.min.js",
+		"outputAbbreviatedPath": "\/Footer Gallery\/vendors\/min\/scrolloverflow.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -986,9 +975,9 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "fullPage.js-master",
+	"displayValue": "TT16",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "harddrive_blue"
+	"iconImageName": "compass_orange"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 0,
