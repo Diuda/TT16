@@ -474,3 +474,102 @@ Schedule Page
 	font-style: italic;
 	font-weight: 300;
 }
+
+
+
+
+/*Contact Page Section CSS*/
+
+
+
+		#con_form{
+			/*position: relative;*/
+			/*margin: 3 0px 400px 70px 350px;*/
+			height: 100%;
+			width: 80%;
+			
+		}
+		#conf{
+			margin-left: 350px;
+		}
+		input[name=name],input[name=email]{
+			width: 60%;
+			box-sizing: border-box;
+			padding: 18px 18px;
+			opacity: 0.4;
+
+		}
+		input[name=text],input[name=email]:focus{
+			background-color: #F2F2F2;
+		}
+		input[name=message]{
+			height: 100px;
+		}
+		textarea{
+			width: 60%;
+			box-sizing: border-box;
+			padding: 18px 18px;
+			opacity: 0.4;
+			height: 100%;
+
+		}
+		#submit{
+			padding: 15px 32px;
+			background-color: black;
+			opacity: 0.6;
+			border:none;
+			width: 60%;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 20px;
+			cursor: pointer;
+			border-radius: 10px;
+		}
+		#submit:hover{
+			background-color: black;
+			opacity: 0.8;
+			color: white;
+		}
+/*		.contact_container{
+			position: fixed;
+			
+			margin-top: 800px;
+
+
+		}*/
+		#contact1{
+			position: absolute;
+			margin-top: 50px;
+			margin-left: 200px;
+			padding: 20px;
+			vertical-align: middle;
+			text-align: justify;
+		}
+		#contact2{
+			position: relative;
+			margin-left: 1360px;
+			margin-top: 50px;
+			vertical-align: middle;
+			text-align: justify;
+		}
+		#sc1,#sc2{
+			border-radius: 50%;
+		}
+		#con_info{
+			margin-top: -200px;
+			margin-left: 200px;
+			display: inline-block;
+			vertical-align: middle;
+			font-size: 20px;
+			font-family: 'Open Sans', sans-serif;
+		}
+		#con_email{
+			margin-top: -50px;
+			margin-left: 400px;
+			font-size: 30px;
+			font-family: 'Open Sans', sans-serif;
+		}
+		h1{
+			font-family: 'Lora', serif;
+			font-size: 36px;
+		}
